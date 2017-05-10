@@ -1,0 +1,27 @@
+{
+  "name": "w3news-weather",
+  "description": "Weather board",
+  "license": "GPL-3.0",
+  "private": false,
+  "authors": [
+      "Pieter Wigboldus"
+  ],
+  "keywords": [
+      "weather",
+      "highcharts",
+      "javascript"
+  ],
+  "homepage": "https://github.com/w3nl/weather",
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+  ],
+  "moduleType": "globals",
+  "dependencies": {
+    "highcharts": "5.0.11",
+    "way2web-highcharts": "hg+https://bitbucket.org/way2dev/highcharts#1.0.3"
+  }
+}

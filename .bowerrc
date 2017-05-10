@@ -1,0 +1,6 @@
+{
+    "directory": "./vendor",
+    "resolvers": [
+        "mercurial-bower-resolver"
+    ]
+}

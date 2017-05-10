@@ -1,0 +1,32 @@
+{
+    "name": "w3news-weather",
+    "version": "0.0.7",
+    "description": "Making DataTables fun again.",
+    "files": [
+        "js/core.js"
+    ],
+    "main": "js/core.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/w3nl/weather.git"
+    },
+    "keywords": [
+        "weather",
+        "highcharts",
+        "javascript"
+    ],
+    "author": "Pieter Wigboldus",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/w3nl/weather/issues"
+    },
+    "homepage": "https://github.com/w3nl/weather#readme",
+    "private": false,
+    "devDependencies": {
+        "bower": "1.8.0",
+        "dark-sky-api": "0.5.28",
+        "highcharts": "5.0.11",
+        "mercurial-bower-resolver": "0.1.3",
+        "way2web-highcharts": "1.0.3"
+    }
+}
